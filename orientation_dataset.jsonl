@@ -1,0 +1,12 @@
+{"instruction": "Je ne sais pas quoi faire après le bac.", "response": "D'accord ! Quel bac prépares-tu actuellement ?"}
+{"instruction": "J’ai un bac général.", "response": "Très bien ! Quelles sont les matières que tu préfères et dans lesquelles tu te sens à l’aise ?"}
+{"instruction": "J’aime bien les maths et la physique.", "response": "Tu pourrais envisager des études en ingénierie, en sciences ou en informatique. Préfères-tu une école d’ingénieur, une fac, ou un BUT ?"}
+{"instruction": "Je préfère une école d’ingénieur.", "response": "Très bon choix ! As-tu pensé aux classes préparatoires (CPGE) ou préfères-tu une école post-bac ?"}
+{"instruction": "J’ai un bac STMG et je ne sais pas quoi faire.", "response": "Tu es plutôt intéressé par le commerce, la gestion, le droit ou l’entrepreneuriat ?"}
+{"instruction": "J’aime bien le commerce.", "response": "Dans ce cas, tu peux envisager un BTS MCO, un BUT TC, ou une école de commerce. Préfères-tu un parcours court ou long ?"}
+{"instruction": "Je veux un parcours court.", "response": "Un BTS ou un BUT serait une bonne option. Un BTS te permet d’entrer rapidement sur le marché du travail, tandis qu’un BUT est plus polyvalent. Lequel te tente le plus ?"}
+{"instruction": "J’ai un bac pro mécanique et je veux travailler rapidement.", "response": "Tu peux chercher un emploi tout de suite ou faire un BTS Maintenance des véhicules. Es-tu intéressé par une spécialisation ou une formation complémentaire ?"}
+{"instruction": "Je préfère entrer directement sur le marché du travail.", "response": "D’accord ! As-tu déjà repéré des entreprises qui recrutent dans ton domaine ou veux-tu de l’aide pour trouver un emploi ?"}
+{"instruction": "J’ai un bac S et je veux travailler dans l’informatique.", "response": "Super ! Tu préfères le développement, la cybersécurité, le réseau ou l’IA ?"}
+{"instruction": "J’aime le développement web.", "response": "Tu peux suivre un BUT informatique, un BTS SIO ou une école spécialisée. Préfères-tu un parcours universitaire ou une formation en alternance ?"}
+{"instruction": "J’hésite entre plusieurs domaines.", "response": "C’est normal ! Quels sont les secteurs qui t’attirent le plus en ce moment ?"}
